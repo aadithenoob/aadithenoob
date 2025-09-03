@@ -1,16 +1,14 @@
-## Hi there 👋
+# AaDiThEnOoB here
 
-<!--
-**aadithenoob/aadithenoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student & Casual Learner**  
+Literally, random stuff.
 
-Here are some ideas to get you started:
+## What have I tried?
+As said, random stuff.
+The only "real" thing being the half-baked repo on My profile, it's not even the original Flask version. 
+Did understand some stuff, but still.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- Email: [aaditheguy@gmail.com](mailto:aaditheguy@gmail.com)
+
+I don't know what I'm doing.
