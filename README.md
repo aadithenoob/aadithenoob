@@ -1,18 +1,14 @@
-# AaDiThEnOoB here
+# Yo,
+**Student, self-taught**
+from Varanasi, India
 
-**Student & Casual Learner**  
-Literally, random stuff.
+## Projects
+I tried web dev like anybody else after learning some HTML in school, and learning what a "backend" is, with Flask.
 
-## What have I tried?
-As said, random stuff.
-The only "real" thing being the half-baked repo on My profile, it's not even the original Flask version. 
-Did understand some stuff, but still.
+My latest thing is a Java CLI project, check it out: [JNote](https://github.com/aadithenoob/JNote)
 
-### NEW
-As of October 22nd, I've made a simple command-line text file maker in Java called JNote! Its really only for fun and learning but check out the repo!
+I'm currently learning, obviously, and I wanna do more low-end stuff and wanna learn C, so that's one of my goals rn.
 
-I would like to contribute to simple things, in which i also learn.
-If anybody wants to reach out, I'll definetly see. It better be fun enough tho.
-
-## Connect
-- Email: [aaditheguy@gmail.com](mailto:aaditheguy@gmail.com)
+## Contact
+Email: aaditheguy@gmail.com
+Discord: [AaDiThEnOoB](https://discord.com/users/aadithenoob)
