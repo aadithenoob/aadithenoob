@@ -1,6 +1,5 @@
 # Yo,
 **Student, self-taught**  
-from Varanasi, India
 
 ## Projects
 I tried web dev like anybody else after learning some HTML in school, and learning what a "backend" is, with Flask. Figured out web-dev isn't fun for me.
