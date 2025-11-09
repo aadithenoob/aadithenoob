@@ -3,7 +3,7 @@
 from Varanasi, India
 
 ## Projects
-I tried web dev like anybody else after learning some HTML in school, and learning what a "backend" is, with Flask.
+I tried web dev like anybody else after learning some HTML in school, and learning what a "backend" is, with Flask. Figured out web-dev ain't for me.
 
 My latest thing is a Java CLI project, check it out: [JNote](https://github.com/aadithenoob/JNote)
 
