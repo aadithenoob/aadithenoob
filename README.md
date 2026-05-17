@@ -1,5 +1,5 @@
-# Yo,
-**Student, self-taught**  
+# Hey there,
+**Student, self-taught programmer/developer**  
 
 ## Projects
 I tried web dev like anybody else after learning some HTML in school (years ago), and learning what a "backend" is, with Flask. Figured out web-dev isn't fun for me.
