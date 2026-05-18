@@ -2,12 +2,12 @@
 **Student, self-taught programmer/developer**  
 
 ## Projects
-I tried web dev like anybody else after learning some HTML in school (years ago), and learning what a "backend" is, with Flask. Figured out web-dev isn't fun for me.
+I tried web dev (two years ago) like anybody else after learning some HTML in school, and then learned what a backend is with Flask
 
-My latest thing is a Java CLI project, check it out: [JNote](https://github.com/aadithenoob/JNote)
-
-I'm currently learning, and I wanna do more low-end stuff and learn C.
+I'm thinking of doing more low-level/systems programming.
 
 ## Contact
 Email: aaditheguy@gmail.com  
 Discord: [AaDiThEnOoB](https://discord.com/users/aadithenoob)
+
+I would appreciate to talk with other students and beginners devs in related fields, or just programming overall!
