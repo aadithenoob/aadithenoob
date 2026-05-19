@@ -14,6 +14,6 @@ mini-cpu-emulator[https://www.github.com/aadithenoob/mini-cpu-emulator]
 
 ## Contact
 Email: aaditheguy@gmail.com  
-Discord: [AaDiThEnOoB](https://discord.com/users/aadithenoob)
+Discord: [aadi_da_noob](https://discord.com/users/aadithenoob)
 
 I would appreciate to talk with other students and beginners devs in related fields, or just programming in general!
