@@ -7,10 +7,10 @@ I tried web dev in 2024 like anybody else after learning some HTML in school, an
 Then I really got into programming and learned Linux (using Nobara), the terminal, and other developer tools.
 
 ## Projects
-- In Oct 2025 I made a CLI in Java: JNote[https://www.github.com/aadithenoob/JNote]
+- In Oct 2025 I made a CLI in Java: [JNote](https://www.github.com/aadithenoob/JNote)
 
 - In May 2026 I made a CPU-emulator:
-mini-cpu-emulator[https://www.github.com/aadithenoob/mini-cpu-emulator]
+[mini-cpu-emulator](https://www.github.com/aadithenoob/mini-cpu-emulator)
 
 ## Contact
 Email: aaditheguy@gmail.com  
