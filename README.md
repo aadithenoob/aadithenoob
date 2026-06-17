@@ -6,12 +6,6 @@ Tried web dev in 2024 like anybody else after learning some HTML in school, and 
 
 Then I really got into programming and learned Linux (using Nobara), the terminal, and other developer tools.
 
-## Projects
-- Oct 2025, Java: [JNote](https://www.github.com/aadithenoob/JNote)
-
-- May 2026, Python:
-[mini-cpu-emulator](https://www.github.com/aadithenoob/mini-cpu-emulator)
-
 ## Contact
 Email: aaditheguy@gmail.com  
 Discord: [aadi_da_noob](https://discordapp.com/users/1263863912458227802)
