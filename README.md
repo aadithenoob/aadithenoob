@@ -2,12 +2,12 @@
 **Self-taught programmer and student**  
 
 ## History
-Tried web dev in 2024 like anybody else after learning some HTML in school, and then learned what a backend is with Flask
-
-Then I really got into programming and learned Linux (using Nobara), the terminal, and other developer tools.
+Tried web dev in 2024 like anybody else after learning some HTML in school, and then learned what a backend is with Flask.
+Then I really got into some programming and learned Linux (using Nobara), the terminal, and other tools.
 
 ## Contact
 Email: aaditheguy@gmail.com  
 Discord: [aadi_da_noob](https://discordapp.com/users/1263863912458227802)
 
-I would appreciate to talk with other students and beginners devs in related fields, or just programming in general!
+I would appreciate to talk with other students and beginner devs in related fields, or just programming in general!
+(By the way, I don't have many projects here anyway, and the ones I do have are probably incomplete)
